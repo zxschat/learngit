@@ -12,3 +12,7 @@ are you ok?
 the new change!
 Times:2016/08/10 22:56
 Auther:ZXS
+
+add information in dev branch!
+Time:18:17 2016/09/04
+Author:ZXS
